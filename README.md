@@ -79,7 +79,7 @@ SAHIL-HANSA.github.io/
 ├── Formatted code/       #formatted-code-folder
 │   ├── formatted.css     #formatted-css-file
 │   └── formatted.js      #formatted-js-file                 
-├── src/                  #assets-folder
+├── src/                  #src-folder
 │   ├── mp3/              #audio-assets-folder             
 │   ├── pdf/              #pdf-assets-folder             
 │   ├── png/              #png-assets-folder
