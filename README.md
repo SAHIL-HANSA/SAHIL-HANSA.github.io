@@ -16,7 +16,7 @@
 
 ✔️ Professional Introduction\
 ✔️ About Me - Data Analytics Journey\
-✔️ Resume Download
+✔️ Resume Download\
 ✔️ Technical Skills & Tools\
 ✔️ Featured Projects (4 End-to-End Analytics Projects)\
 ✔️ Contact Information\
@@ -73,19 +73,25 @@
 
 ```
 SAHIL-HANSA.github.io/
-├── index.html                 # Main portfolio page
-├── assets/
-│   ├── images/               # Profile and project images
-│   ├── icons/               # Skill and technology icons
-│   ├── css/                 # Stylesheets
-│   └── js/                  # JavaScript functionality
-├── projects/
-│   ├── project-details/     # Individual project pages
-│   └── screenshots/         # Project dashboard images
-├── resume/
-│   └── sahil-hansa-resume.pdf
-├── LICENSE                  # MIT License
-└── README.md               # This file
+├── index.html            #main-portfolio-page
+├── .vscode/              #vscode-settings-folder
+│   ├── setting.json      #vscode-settings-file
+├── Formatted code/       #formatted-code-folder
+│   ├── formatted.css     #formatted-css-file
+│   └── formatted.js      #formatted-js-file                 
+├── assets/               #assets-folder
+│   ├── mp3/              #audio-assets-folder             
+│   ├── pdf/              #pdf-assets-folder             
+│   ├── png/              #png-assets-folder
+│   ├── svg/              #svg-assets-folder                 
+│   └── webp/             #webp-assets-folder  
+├── click.png             #click-icon-file
+├── cursorr.png           #custom-cursor-icon-file
+├── main.js               #main-javascript-file
+├── style.css             #main-stylesheet-file
+├── LICENSE               #mit-license-file
+└── README.md             #repository-readme-file
+
 ```
 
 ## License 📄
