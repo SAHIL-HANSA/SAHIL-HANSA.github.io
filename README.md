@@ -7,7 +7,7 @@
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-23%20Aug%202025-yellow.svg)](https://github.com/SAHIL-HANSA/SAHIL-HANSA.github.io)
 <a href="https://github.com/SAHIL-HANSA/SAHIL-HANSA.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
-<img width="100%" alt="Portfolio Screenshot" src="https://github.com/SAHIL-HANSA/SAHIL-HANSA.github.io/assets/portfolio-preview.png">
+<img width="100%" alt="Portfolio Screenshot" src="https://github.com/SAHIL-HANSA/SAHIL-HANSA.github.io/assets/png/Preview-card-min.png">
 
 :star: Star me on GitHub — it helps!
 
